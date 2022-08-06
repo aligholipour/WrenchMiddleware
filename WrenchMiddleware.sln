@@ -5,7 +5,9 @@ VisualStudioVersion = 17.3.32714.290
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WrenchToolbox.AspNetCore", "WrenchToolbox.AspNetCore", "{1A38E010-01A1-488A-83EE-AD1E882C4549}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WrenchToolbox.AspNetCore", "WrenchToolbox.AspNetCore\WrenchToolbox.AspNetCore.csproj", "{76E17E7E-EE9E-40AC-AE9F-1090AD442BB7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WrenchToolbox.AspNetCore", "WrenchToolbox.AspNetCore\WrenchToolbox.AspNetCore.csproj", "{76E17E7E-EE9E-40AC-AE9F-1090AD442BB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecurityHeaders", "SecurityHeaders\SecurityHeaders.csproj", "{3C2B1203-8E0E-481C-9697-E441C0A9EA68}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,6 +19,10 @@ Global
 		{76E17E7E-EE9E-40AC-AE9F-1090AD442BB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{76E17E7E-EE9E-40AC-AE9F-1090AD442BB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{76E17E7E-EE9E-40AC-AE9F-1090AD442BB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C2B1203-8E0E-481C-9697-E441C0A9EA68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C2B1203-8E0E-481C-9697-E441C0A9EA68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C2B1203-8E0E-481C-9697-E441C0A9EA68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C2B1203-8E0E-481C-9697-E441C0A9EA68}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
